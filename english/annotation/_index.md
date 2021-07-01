@@ -27,7 +27,7 @@ apis:
           img_alt: "GroupDocs.Annotation Cloud for cURL"
           image: "/sdk/272x272/groupdocs_annotation-for-curl.webp"
           product: "GroupDocs.Annotation"
-          platform: "Cloud for cURL"
+          platform: "cURL"
           content: "Work with cURL RESTful document annotation API to quickly annotate PDF, Word, Excel, PowerPoint, Visio, images and many other formats in your applications."
 
         # api_product loop

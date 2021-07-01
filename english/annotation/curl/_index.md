@@ -123,40 +123,6 @@ overview:
       tab_three:
         description: |
           Supported Operating Systems and Frameworks
-      
-        left:
-          enable: true
-          table:
-            # table loop
-            - icon: "fab fa-windows"
-              title: "Operating Systems"
-              content: |
-                * Microsoft Windows Desktop
-                * Microsoft Windows Server
-                * Linux
-                * MacOS
-
-            # table loop
-            - icon: "fas fa-code"
-              title: "Supported Frameworks"
-              content: |
-                * Java 7 (1.7) and above
-
-        right:
-          enable: true
-          table:
-            # table loop
-            - icon: "fas fa-cogs"
-              title: "Development Environments"
-              content: |
-                * NetBeans
-                * IntelliJ IDEA
-                * Eclipse
-            # table loop
-            - icon: "fas fa-tools"
-              title: "Build Automation Tool"
-              content: |
-                * Maven
 
 ############################# Features ############################
 features:
@@ -218,9 +184,7 @@ features:
       # more_feature_loop
       - title: "Robust Set of Annotation Tools"
         content: "GroupDocs.Annotation Cloud for cURL supports a robust set of annotation types, which can primarily be divided into two categories; graphical annotations and text-based annotations. Both of these categories have further sub-categories of annotations and markups that you can use in your document annotation solutions.
-
         Text based annotations, include adding comments to various text selections, hiding text of choice by redaction, applying various text markups, e.g., underlines and strikethroughs, and adding sticky notes to rich text.
-
         On the other hand, graphical annotations include, area annotations to highlight area with rectangle in order to add notes, area redaction to hide classified text or image, point annotations to pick a point and apply notes to it, Pointer/arrow annotations to drop arrow for pointing towards an object within document, polyline annotation to draw freehand shapes and lines, watermark annotations to apply text-based watermark overlays, and distance annotations."
 
       # more_feature_loop
@@ -235,55 +199,55 @@ support:
 ############################# Solutions ############################
 solutions:
     enable: true
-    title: "GroupDocs.Viewer Cloud also offers individual document rendering SDKs for other popular languages as listed below:"
+    title: "GroupDocs..Annotation Cloud also offers individual document rendering SDKs for other popular languages as listed below:"
 
     solution:
         # solution loop
-        - img_alt: "GroupDocs.Viewer Cloud SDK for cURL"
+        - img_alt: "GroupDocs..Annotation Cloud SDK for cURL"
           image: "/sdk/272x272/groupdocs_annotation-for-curl.webp"
-          product: "GroupDocs.Viewer"
+          product: "GroupDocs..Annotation"
           platform: "cURL"
           link: "/annotation/curl/"
 
         # solution loop
-        - img_alt: "GroupDocs.Viewer Cloud SDK for .NET"
+        - img_alt: "GroupDocs..Annotation Cloud SDK for .NET"
           image: "/sdk/272x272/groupdocs_annotation-for-net.webp"
-          product: "GroupDocs.Viewer"
+          product: "GroupDocs..Annotation"
           platform: ".NET"
           link: "/annotation/net/"
 
         # solution loop
-        - img_alt: "GroupDocs.Viewer Cloud SDK for Java"
+        - img_alt: "GroupDocs..Annotation Cloud SDK for Java"
           image: "/sdk/272x272/groupdocs_annotation-for-java.webp"
-          product: "GroupDocs.Viewer"
+          product: "GroupDocs..Annotation"
           platform: "Java"
           link: "/annotation/java/"
 
         # solution loop
-        - img_alt: "GroupDocs.Viewer Cloud SDK for PHP"
+        - img_alt: "GroupDocs..Annotation Cloud SDK for PHP"
           image: "/sdk/272x272/groupdocs_annotation-for-php.webp"
-          product: "GroupDocs.Viewer"
+          product: "GroupDocs..Annotation"
           platform: "PHP"
           link: "/annotation/php/"
 
         # solution loop
-        - img_alt: "GroupDocs.Viewer Cloud SDK for Python"
+        - img_alt: "GroupDocs..Annotation Cloud SDK for Python"
           image: "/sdk/272x272/groupdocs_annotation-for-python.webp"
-          product: "GroupDocs.Viewer"
+          product: "GroupDocs..Annotation"
           platform: "Python"
           link: "/annotation/python/"
 
         # solution loop
-        - img_alt: "GroupDocs.Viewer Cloud SDK for Ruby"
+        - img_alt: "GroupDocs..Annotation Cloud SDK for Ruby"
           image: "/sdk/272x272/groupdocs_annotation-for-ruby.webp"
-          product: "GroupDocs.Viewer"
+          product: "GroupDocs..Annotation"
           platform: "Ruby"
           link: "/annotation/ruby/"
 
         # solution loop
-        - img_alt: "GroupDocs.Viewer Cloud SDK for Node.js"
+        - img_alt: "GroupDocs..Annotation Cloud SDK for Node.js"
           image: "/sdk/272x272/groupdocs_annotation-for-node.webp"
-          product: "GroupDocs.Viewer"
+          product: "GroupDocs..Annotation"
           platform: "Node.js"
           link: "/annotation/nodejs/"
 

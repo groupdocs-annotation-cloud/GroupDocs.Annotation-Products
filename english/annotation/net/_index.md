@@ -256,7 +256,7 @@ solutions:
         - img_alt: "GroupDocs.Annotation Cloud SDK for cURL"
           image: "/sdk/272x272/groupdocs_annotation-for-curl.webp"
           product: "GroupDocs.Annotation"
-          platform: "Cloud for cURL"
+          platform: "cURL"
           link: "/annotation/curl/"
 
         # solution loop
@@ -300,13 +300,6 @@ solutions:
           product: "GroupDocs.Annotation"
           platform: "Node.js"
           link: "/annotation/nodejs/"
-
-        # solution loop
-        - img_alt: "GroupDocs.Annotation Cloud SDK for Android"
-          image: "/sdk/272x272/groupdocs_annotation-for-android.webp"
-          product: "GroupDocs.Annotation"
-          platform: "Android"
-          link: "/annotation/android/"
 
 ############################# Back to top ###############################
 back_to_top:

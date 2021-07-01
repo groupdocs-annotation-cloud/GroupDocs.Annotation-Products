@@ -70,16 +70,27 @@ overview:
           Ruby Gem is required for communicating with the GroupDocs.Annotation Cloud SDK API for Ruby.‎
       
         left:
-          enable: false
+          enable: true
           icon: "fas fa-crop"
           title: "Figure Annotations"
           content: |
-            
+            * Area annotation
+            * Point annotation
+            * Area redaction
+            * Polyline
+            * Pointer/arrow
+            * Watermark
+            * Distance
         right:
           enable: true
-          icon: "fas fa-cubes"
-          title: "Ruby Gem"
+          icon: "fas fa-file-alt"
+          title: "Text Annotations"
           content: |
+            * Annotation
+            * Replacement
+            * Redaction
+            * Strikethrough / Underline
+            * Typewriter
             
       
       ## TAB TWO ##
@@ -297,13 +308,6 @@ solutions:
           product: "GroupDocs.Annotation"
           platform: "Node.js"
           link: "/annotation/nodejs/"
-
-        # solution loop
-        - img_alt: "GroupDocs.Annotation Cloud SDK for Android"
-          image: "/sdk/272x272/groupdocs_annotation-for-android.webp"
-          product: "GroupDocs.Annotation"
-          platform: "Android"
-          link: "/annotation/android/"
 
 ############################# Back to top ###############################
 back_to_top:
