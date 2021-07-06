@@ -5,7 +5,7 @@ date: 2021-04-27T09:31:06+03:00
 draft: false
 
 ############################# Head ############################
-head_title: "Annotate with Cross-Platform Cloud APIs & SDKs"
+head_title: "Annotate Documents with Cloud APIs & SDKs"
 head_description: "Document Annotation REST API & Cloud SDKs for .NET, Java, PHP, Ruby or cURL commands for REST APIs. Annotate PDF, Word, Excel, PPT, HTML, Image, CAD etc."
 
 ############################# Header ############################
@@ -82,10 +82,6 @@ apis:
           product: "GroupDocs.Annotation"
           platform: "Cloud SDK for Node.js"
           content: "SDK for Node.js to easily incorporate our cloud based document annotation API in your application."
-
-       
-
-    
 
 ############################# Back to top ###############################
 back_to_top:
