@@ -41,7 +41,7 @@ jobs:
         src_path: ./english/annotation/.
         dst_path: /content/english/annotation/
         dst_owner: groupdocs-cloud
-        dst_repo_name: products-qa.groupdocs.cloud
+        dst_repo_name: products.groupdocs.cloud
         dst_branch: master
         src_branch: master
         clean: true
