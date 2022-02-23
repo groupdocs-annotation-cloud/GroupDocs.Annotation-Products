@@ -10,7 +10,7 @@ head_description: "Document Annotation REST API & Cloud SDKs for .NET, Java, PHP
 
 ############################# Header ############################
 title: "Document & Image Annotation API & SDKs"
-description: "Annotate documents and images using cURL commands for annotation REST APIs or Cloud SDKs for .NET, Java, PHP, Python & Ruby‎"
+description: "Annotate documents and images using cURL commands for annotation REST APIs or Cloud SDKs for .NET, Java, PHP, Python & Ruby"
 
 ############################# APIs ###############################
 apis:

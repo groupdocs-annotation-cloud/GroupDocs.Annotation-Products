@@ -122,7 +122,7 @@ overview:
       ## TAB THREE ##
       tab_three:
         description: |
-          GroupDocs.Annotation set of SDK REST APIs is not dependent on your local operating system or ‎database. We offer our SDK APIs in numerous programming languages and with frequent new ‎additions.
+          GroupDocs.Annotation set of SDK REST APIs is not dependent on your local operating system or database. We offer our SDK APIs in numerous programming languages and with frequent new additions.
       
         left:
           enable: true

@@ -57,14 +57,14 @@ submenu:
 overview:
     enable: true
     content: |
-      GroupDocs.Annotation Cloud SDK for Node.js RESTful APIs is all you need to build document annotator tools in Node.js. Your application will be able to add annotations, watermark overlays, text replacements, redactions, sticky notes and text markups to the business documents of all popular formats such as, PDF, Microsoft Word, Excel, PowerPoint, Outlook, images other formats. Rapidly develop Annotation applications in Node.js using our SDK that works as a wrapper around Node.js APIs and makes the solution cross-platform compatible. Support for 3rd party cloud storage providers, e.g., Amazon S3, Windows Azure, Dropbox and others is also provided.‎
+      GroupDocs.Annotation Cloud SDK for Node.js RESTful APIs is all you need to build document annotator tools in Node.js. Your application will be able to add annotations, watermark overlays, text replacements, redactions, sticky notes and text markups to the business documents of all popular formats such as, PDF, Microsoft Word, Excel, PowerPoint, Outlook, images other formats. Rapidly develop Annotation applications in Node.js using our SDK that works as a wrapper around Node.js APIs and makes the solution cross-platform compatible. Support for 3rd party cloud storage providers, e.g., Amazon S3, Windows Azure, Dropbox and others is also provided.
     tabs:
       enable: true
       
       ## TAB ONE ##
       tab_one:
         description: |
-          Node.js module is required for communicating with the GroupDocs.Annotation Cloud SDK API for Node.js.‎
+          Node.js module is required for communicating with the GroupDocs.Annotation Cloud SDK API for Node.js.
       
         left:
           enable: true
@@ -93,7 +93,7 @@ overview:
       ## TAB TWO ##
       tab_two:
         description: |
-          GroupDocs.Annotation Cloud SDK APIs support following file formats:‎
+          GroupDocs.Annotation Cloud SDK APIs support following file formats:
 
         left:
           enable: true
@@ -123,7 +123,7 @@ overview:
       ## TAB THREE ##
       tab_three:
         description: |
-          GroupDocs.Annotation set of SDK REST APIs is not dependent on your local operating system or ‎database. We offer our SDK APIs in numerous programming languages and with frequent new ‎additions.‎
+          GroupDocs.Annotation set of SDK REST APIs is not dependent on your local operating system or database. We offer our SDK APIs in numerous programming languages and with frequent new additions.
       
         left:
           enable: true
@@ -195,7 +195,7 @@ features:
 
       # feature loop
       - icon: "fas fa-eye-slash"
-        content: "Add Text Redaction Annotation in Slides‎"
+        content: "Add Text Redaction Annotation in Slides"
 
       # feature loop
       - icon: "fas fa-file-word"
@@ -204,7 +204,7 @@ features:
     more_feature:
       # more_feature_loop
       - title: "Easy Integration"
-        content: "Integrating GroupDocs.Annotation Cloud SDK into your Node.js applications is very easy. No installation is ‎required on the server or client side. Just create an account at GroupDocs.Cloud to get App SID & ‎key. Following example shows how easy it is to import annotation information using Node.js:‎"
+        content: "Integrating GroupDocs.Annotation Cloud SDK into your Node.js applications is very easy. No installation is required on the server or client side. Just create an account at GroupDocs.Cloud to get App SID & key. Following example shows how easy it is to import annotation information using Node.js:"
 
       # more_feature_loop
       - title: "Get Supported Document Formats - Node.js"
@@ -235,18 +235,18 @@ features:
           ```
       # more_feature_loop
       - title: "Support for Numerous Annotation Types"
-        content: "Using GroupDocs.Annotation Cloud SDK for Node.js, you can work with diverse types of annotations. The ‎two basic types are; Text Annotations and Figure Annotations.‎
+        content: "Using GroupDocs.Annotation Cloud SDK for Node.js, you can work with diverse types of annotations. The two basic types are; Text Annotations and Figure Annotations.
 
-        While using text-based annotation, you can add text comments to selected text; highlight which text ‎should be replaced with what, hide confidential text using text redaction, highlight text with ‎strikethroughs/underlines, and add sticky notes with rich text.‎
+        While using text-based annotation, you can add text comments to selected text; highlight which text should be replaced with what, hide confidential text using text redaction, highlight text with strikethroughs/underlines, and add sticky notes with rich text.
 
-        While working with figure annotations, you can add notes to an area highlighted with a rectangle (Area ‎Annotation), add notes to any point in the document (Point Annotation), hide confidential parts of an ‎image or text (Area Redaction), draw freehand lines and shapes (Polyline), arrows pointing to an ‎object (Pointer/Arrow), create text-based watermark overlays (Watermark), and measure the ‎distance between any objects in a document (Distance Annotation).‎"
+        While working with figure annotations, you can add notes to an area highlighted with a rectangle (Area Annotation), add notes to any point in the document (Point Annotation), hide confidential parts of an image or text (Area Redaction), draw freehand lines and shapes (Polyline), arrows pointing to an object (Pointer/Arrow), create text-based watermark overlays (Watermark), and measure the distance between any objects in a document (Distance Annotation)."
 
       # more_feature_loop
       - title: "Easy Customization"
-        content: "GroupDocs.Annotation Cloud SDK for Node.js is 100% tested and out of the box running. The SDK is open ‎source and has an MIT license. You can use it, and even customize it for absolutely free of charge.‎"
+        content: "GroupDocs.Annotation Cloud SDK for Node.js is 100% tested and out of the box running. The SDK is open source and has an MIT license. You can use it, and even customize it for absolutely free of charge."
       # more_feature_loop
       - title: "Interactive API Explorer"
-        content: "Using our Swagger based API explorer; you can try out GroupDocs.Annotation Cloud SDK for Node.js ‎right away in your browser. This interactive API explorer gives you information about all the resources ‎that the API offers. You can also try your desired operation by interactively providing required ‎parameters.‎"
+        content: "Using our Swagger based API explorer; you can try out GroupDocs.Annotation Cloud SDK for Node.js right away in your browser. This interactive API explorer gives you information about all the resources that the API offers. You can also try your desired operation by interactively providing required parameters."
       
 
 ############################# Support ############################

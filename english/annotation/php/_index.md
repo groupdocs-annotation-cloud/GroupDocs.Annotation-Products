@@ -206,7 +206,7 @@ features:
     more_feature:
       # more_feature_loop
       - title: "Quick & Reliable Document Annotation"
-        content: "GroupDocs.Annotation Cloud API provides a number of ways to deal with annotations. It not only allows retrieving annotations from documents, but also adds(exports) or remove annotations from a document and retrieves the resultant document as the stream.‎"
+        content: "GroupDocs.Annotation Cloud API provides a number of ways to deal with annotations. It not only allows retrieving annotations from documents, but also adds(exports) or remove annotations from a document and retrieves the resultant document as the stream."
 
       # more_feature_loop
       - title: "Remove document annotations - PHP"

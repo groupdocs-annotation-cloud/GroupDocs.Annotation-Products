@@ -10,7 +10,7 @@ head_description: "Create annotator application. Add and manage popular annotati
 
 ############################# Header ############################
 title: "Document and Image Annotation Solution"
-description: "Annotate documents with our online apps or build your own custom annotation applications across popular platforms using On-Premise or Cloud APIs.‎"
+description: "Annotate documents with our online apps or build your own custom annotation applications across popular platforms using On-Premise or Cloud APIs."
 
 ############################# APIs ###############################
 apis:
